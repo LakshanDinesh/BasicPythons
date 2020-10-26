@@ -2,7 +2,7 @@
 x=10    #as a
 
 #STRINGS
-x="thanuri" #as a string
+x="than\n uri" #as a string and \n use to line brake
 print(x)    # last assigned value will be printed.
 
 #variables,
